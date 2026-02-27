@@ -1,4 +1,5 @@
 # OpenZynqSDR_HW
+Vivado project with 62.5 MHz on /websdr183 folder
 Hardware for OpenZynqSDR - Open Source SDR receiver, based on Antminter S9 board.  
 See the article: https://habr.com/ru/articles/898490      
 See also: https://github.com/iliasam/OpenZynqSDRApp  
