@@ -1,0 +1,42 @@
+verilog xil_defaultlib --include "C:/Xilinx/vt/Vivado/2023.2/data/xilinx_vip/include" --include "../../../../websdr183.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../websdr183.gen/sources_1/bd/design_1/ipshared/6b2b/hdl" --include "../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog" --include "../../../../websdr183.gen/sources_1/bd/design_1/ipshared/f1cb/hdl/verilog" --include "../../../../websdr183.gen/sources_1/bd/design_1/ipshared/c2c6" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../bd/design_1/ip/design_1_spi_receiver_0_0/sim/design_1_spi_receiver_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconcat_0_0/sim/design_1_xlconcat_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_0_0/sim/design_1_xlconstant_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_0_1/sim/design_1_xlconstant_0_1.v" \
+"../../../bd/design_1/ip/design_1_adc_ovr_detect_0_0/sim/design_1_adc_ovr_detect_0_0.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender_data_buf_RAM_AUTO_1R1W.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender_flow_control_loop_pipe_sequential_init.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender_hls_deadlock_idx0_monitor.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender_out_bus_m_axi.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender_regslice_both.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender_sound_sender_Pipeline_2.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender_sound_sender_Pipeline_VITIS_LOOP_48_1.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/37e5/hdl/verilog/sound_sender.v" \
+"../../../bd/design_1/ip/design_1_sound_sender_0_2/sim/design_1_sound_sender_0_2.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/f1cb/hdl/verilog/waterfall_sender_flow_control_loop_pipe_sequential_init.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/f1cb/hdl/verilog/waterfall_sender_hls_deadlock_idx0_monitor.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/f1cb/hdl/verilog/waterfall_sender_out_bus_m_axi.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/f1cb/hdl/verilog/waterfall_sender_regslice_both.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/f1cb/hdl/verilog/waterfall_sender_waterfall_sender_Pipeline_VITIS_LOOP_72_1.v" \
+"../../../../websdr183.gen/sources_1/bd/design_1/ipshared/f1cb/hdl/verilog/waterfall_sender.v" \
+"../../../bd/design_1/ip/design_1_waterfall_sender_0_0/sim/design_1_waterfall_sender_0_0.v" \
+"../../../bd/design_1/ip/design_1_waterfall_sender_0_1/sim/design_1_waterfall_sender_0_1.v" \
+"../../../bd/design_1/ip/design_1_wf_proc_0_0/sim/design_1_wf_proc_0_0.v" \
+"../../../bd/design_1/ip/design_1_wf_proc_0_1/sim/design_1_wf_proc_0_1.v" \
+"../../../bd/design_1/ip/design_1_sound_rx_common_0_0/sim/design_1_sound_rx_common_0_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../bd/design_1/ip/design_1_clk_wiz_0_0/design_1_clk_wiz_0_0_clk_wiz.v" \
+"../../../bd/design_1/ip/design_1_clk_wiz_0_0/design_1_clk_wiz_0_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_2/sim/design_1_auto_pc_2.v" \
+"../../../bd/design_1/ip/design_1_auto_us_0/sim/design_1_auto_us_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_3/sim/design_1_auto_pc_3.v" \
+"../../../bd/design_1/ip/design_1_oddr_0_0/sim/design_1_oddr_0_0.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

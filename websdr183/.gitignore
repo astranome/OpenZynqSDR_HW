@@ -1,0 +1,27 @@
+# Vivado cache
+.cache/
+.Xil/
+.webtalk/
+ip_user_files/
+*.sim*
+*.log
+*.jou
+*.str
+*.pb
+vivado*.log
+webtalk*
+usage_statistics_webtalk*
+
+# Runs (можно сгенерировать заново)
+*.runs/
+*.sdk/
+*.hw/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Large files
+*.zip
+*.rar

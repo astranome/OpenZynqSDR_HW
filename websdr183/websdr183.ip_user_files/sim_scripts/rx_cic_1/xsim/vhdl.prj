@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../websdr183.gen/sources_1/ip/rx_cic_1/sim/rx_cic_1.vhd" \
+
+# Do not sort compile order
+nosort

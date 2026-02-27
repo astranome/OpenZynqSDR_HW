@@ -1,0 +1,2 @@
+rx_cic2.vhd,vhdl,xil_defaultlib,../../../../websdr183.gen/sources_1/ip/rx_cic2/sim/rx_cic2.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v
