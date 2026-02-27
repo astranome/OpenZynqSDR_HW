@@ -3,3 +3,9 @@ PCB/History/
 Src_Vivado/OpenZynqSDR_HW.cache/
 Src_Vivado/OpenZynqSDR_HW.gen/
 Src_Vivado/OpenZynqSDR_HW.runs/
+websdr183/.cache/
+websdr183/.Xil/
+websdr183/ip_user_files/
+websdr183/*.runs/
+websdr183/*.log
+websdr183/*.jou
